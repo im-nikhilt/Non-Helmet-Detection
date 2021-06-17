@@ -3,20 +3,12 @@
 Non-Helmet Detection and License Plate Number Extraction
 
 steps:
-1.download and open all ipynb files in jupyter notebook.
-2.Give a video input as video to generate.py (this will convert video to frames).
-3.Pass these frames manually to the person.ipynb(this will show accuracy of both motocycle and person) and choose the image with highest accuracy manually.
-4.Pass this image to helmet.pynb (this will detect whether person is wearing helmet or not by showing accuracy of helmet).
-5. If the accuracy is shown then exit else pass this image to licence_plate_detection_and_extraction.ipynb
-6. licence_plate_detection_and_extraction.ipynb will detect and extract the plate number.
-
-
-
-
-
-
-
-
+1.  download and open all ipynb files in jupyter notebook.
+2.  Give a video input as video to generate.py (this will convert video to frames).
+3.  Pass these frames manually to the person.ipynb(this will show accuracy of both motocycle and person) and choose the image with highest accuracy manually.
+4.  Pass this image to helmet.pynb (this will detect whether person is wearing helmet or not by showing accuracy of helmet).
+5.  If the accuracy is shown then exit else pass this image to licence_plate_detection_and_extraction.ipynb
+6.  licence_plate_detection_and_extraction.ipynb will detect and extract the plate number.
 
 
 
